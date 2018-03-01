@@ -11,6 +11,11 @@ body {
 	color:rgb(20, 20, 20);
 }
 
+.download {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 120%;
+}
+
 a {outline:none !important; font-weight:bold; text-decoration:none;}
 a:link {color:#c00;}
 a:visited {color:#606;}
